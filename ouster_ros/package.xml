@@ -19,6 +19,8 @@
   <build_depend>tf2</build_depend>
   <build_depend>tf2_ros</build_depend>
   <build_depend>tf2_geometry_msgs</build_depend>
+  <build_depend>libglew_dev</build_depend>
+  <build_depend>libglfw3_dev</build_depend>
   
   <exec_depend>libjsoncpp</exec_depend>
   <exec_depend>roscpp</exec_depend>
